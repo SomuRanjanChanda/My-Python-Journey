@@ -1,0 +1,7 @@
+goku = input("Enter 1st value: ")
+vegeta = input("Enter 2nd value: ")
+print ("the value of", goku, "+", vegeta ," is ", int(goku) + int(vegeta))
+print ("the value of", goku, "-", vegeta ," is ", int(goku) - int(vegeta))
+print ("the value of", goku, "*", vegeta, " is ", int(goku) * int(vegeta))
+print ("the value of", goku, "/", vegeta, " is ", int(goku) / int(vegeta))
+print ("the value of", goku, "%", vegeta, " is ", int(goku) % int(vegeta))
